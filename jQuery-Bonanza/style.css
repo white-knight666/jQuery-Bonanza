@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.btn {
+    margin-top: 50px;
+    
+
+}
+
+.paragraph1{
+    margin: 20px;
+}
+
+
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid green;
+    margin-bottom: 10px;
+    
+}
+
+#box{
+    background:rgb(61, 22, 122);
+    color:#fff;
+    width:500px;
+    height:90px;
+    padding:40px;
+    text-align:center;
+}
+
